@@ -8,8 +8,8 @@
 # testing
 /coverage
 /node_modules
-/publicmy
-/src
+/publicMy
+/srcMy
 
 # production
 /build
